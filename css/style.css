@@ -5,7 +5,7 @@ li{list-style: none;}
 .page-main{width: 960px; padding: 0 10px 100px; margin: auto;}
 .gallery{margin: 0; padding: 0;}
 .gallery::after{content: ""; display: block; clear: both;}
-.gallery-item{float: left; width: 210px; box-sizing: border-box; margin-top: 10px; background: rebeccapurple; padding: 20px; animation: fadeIn 1s; margin-right: 10px;}
+.gallery-item{float: left; width: 210px; box-sizing: border-box; margin-top: 10px; background: rebeccapurple; padding: 20px; animation: fadeIn 1s; margin-right: 40px;}
 @keyframes fadeIn {
     0%{opacity: 0;}
     100%{opacity: 1;}
